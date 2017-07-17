@@ -13,6 +13,8 @@ The add-on supports both versions of Zotero:
 1. Zotero Standalone:
   - Download the add-on from https://github.com/beloglazov/zotero-scholar-citations/raw/master/builds/zotero-scholar-citations-1.9.1-fx.xpi
   - In Zotero Standalone go to Tools -> Add-ons -> click the settings button in the top-right corner -> Install Add-on From File -> select the downloaded file and restart Zotero.
+  - then you need to open the Zotero app, and on top right corner add extra to the fields
+  
 2. Zotero for Firefox:
   - Install the Firefox add-on from https://addons.mozilla.org/en-us/firefox/addon/zotero-scholar-citations/
 
